@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="Maitally Logo" width="120"/>
+  <img src="Logo.png" alt="Maitally Logo" width="120"/>
 </p>
 # Maitally — AI-powered Document Assistant
 

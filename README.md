@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="icon.png" alt="Maitally Logo" width="120"/>
+</p>
 # Maitally — AI-powered Document Assistant
 
 > Behördenbriefe einfach verstehen · Making German bureaucracy manageable

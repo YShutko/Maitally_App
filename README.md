@@ -4,7 +4,7 @@
 
 # Maitally — AI-powered Document Assistant
 
-> Behördenbriefe einfach verstehen · Making German bureaucracy manageable
+ Behördenbriefe einfach verstehen · Making German bureaucracy manageable
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green)](https://play.google.com/store)
 [![Flutter](https://img.shields.io/badge/Flutter-3.41.9-blue)](https://flutter.dev)
